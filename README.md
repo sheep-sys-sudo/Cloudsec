@@ -1,2 +1,4 @@
 # Cloudsec
 喜欢云安全，但是零基础(bushi，这里会记录一下学习日常，分享一些不错的资料
+- https://wiki.teamssix.com/
+- [test](./code)
